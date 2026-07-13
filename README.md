@@ -2,6 +2,10 @@
 <h3 align="center">AI / Machine Learning (Undergradute)</h3>
 
 <p align="center">
+  <img src="https://github.com/Kovindu555/Kovindu555/blob/main/icon/octocat-1783950780762.png" width="320" alt="octocat-img" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Building+AI+systems+%F0%9F%A4%96;Training+models%2C+one+epoch+at+a+time;Exploring+deep+learning+%26+NLP" alt="Typing SVG" />
 </p>
 
