@@ -67,8 +67,8 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kovindu555&style=flat&color=8A2BE2" alt="Profile views" />
-</p>
+</p> -->
 
 <p align="center"><sub>Thanks for visiting!</sub></p>
